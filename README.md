@@ -1,4 +1,5 @@
 <h1>My Work</h1>
+My webcomic.<br>
 <a href="https://lostmybootsoutwandering.com/"><img src="https://lostmybootsoutwandering.com/img/wandering.gif"></a>
 <h2>Donate</h2>
 You can donate <a href="https://www.paypal.com/donate/?hosted_button_id=8MLMNCZ6ULRB8">here.<br><img src="https://lostmybootsoutwandering.com/img/donate_button.png" width="150px">
