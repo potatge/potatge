@@ -1,4 +1,5 @@
 <h1>My webcomic</h1>
-<a href="https://lostmybootsoutwandering.com/"><img src="https://lostmybootsoutwandering.com/img/wandering.gif"></a>
+<a href="https://lostmybootsoutwandering.com/"><img src="https://lostmybootsoutwandering.com/img/wandering.gif"></a><br>
+<a href="https://www.paypal.com/donate/?hosted_button_id=8MLMNCZ6ULRB8"><img src="https://lostmybootsoutwandering.com/img/assets/supportvela.gif"/><br /></a>
 <h2>Contact</h2>
 <p>discord: @potatge</p>
