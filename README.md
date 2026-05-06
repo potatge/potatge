@@ -1,3 +1,3 @@
-<p><a href="https://www.lostmybootsoutwandering.com/">woowoo.</p>
+<p><a href="https://www.lostmybootsoutwandering.com/">Oh you made it here. Well done.</p>
 
 ![seraphimsammy](https://github.com/user-attachments/assets/56016451-d762-4b66-b0c5-b18d1339b20c)
