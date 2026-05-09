@@ -1,3 +1,2 @@
-<p><a href="https://www.lostmybootsoutwandering.com/">Oh you made it here. Well done.</p>
-
-![seraphimsammy](https://github.com/user-attachments/assets/56016451-d762-4b66-b0c5-b18d1339b20c)
+<p>Oh you made it here. Well done.</p>
+<a href="https://potatge.blogspot.com/"><img src="https://lostmybootsoutwandering.com/img/assets/buttons/banner_muren.gif"></a>
